@@ -12,6 +12,9 @@ Regression & Predictions
 1. Inferences: Get knowledge of the most important price-related features of the property that people care about when buying a house in Ames, IA
 2. Predictions: Predict the price of house at sale in Ames, IA based on the important features of the property
 
+**Result:**
+![answer](Final_Answer.png)
+
 ***************
 
 Due Date: **May 18, 2018**
