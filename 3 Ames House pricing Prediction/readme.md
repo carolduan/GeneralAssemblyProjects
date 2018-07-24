@@ -15,6 +15,11 @@ Regression & Predictions
 **Result:**
 ![answer](Final_Answer.png)
 
+**Note:**
+1. Code.ipynb: my notebook
+2. Presentation.pdf: my presentation deck
+3. Kaggle challenge page: [KagglePage](https://www.kaggle.com/c/dsi-us-4-project-2-regression-challenge)
+
 ***************
 
 Due Date: **May 18, 2018**
