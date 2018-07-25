@@ -74,3 +74,5 @@ Regression & Predictions
 1. Inferences: Get knowledge of the most important price-related features of the property that people care about when buying a house in Ames, IA
 2. Predictions: Predict the price of house at sale in Ames, IA based on the important features of the property
 
+**Result:**
+My lasso linear regression model got a 0.95 R-squared score on the test dataset and ranked 6th (top 7%) in the kaggle competition
