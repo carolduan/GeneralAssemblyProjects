@@ -20,7 +20,8 @@ For the next step, I'm going to use a bigger database to train and improve my mo
 
 ## 2. How to create a highly-engaged reddit post?
 
-In this project, I provides an analysis, evaluation and suggestion for the question - How to create a highly-engaged reddit post.   
+In this project, I provides an analysis, evaluation and suggestion for the question - How to create a highly-engaged reddit post. 
+
 This question is a binary classification and inferences problem based on two points:  
 1. **Target classification:** The goal is to increase the reddit post engagement rate, which can be measured by the number of comments in the post. By comparing the comment number for each post with the median number of comments, I can build a binary classification model to learn and predict the high engagement post.  
 2. **Features inferences:** To answer the “How to” question, the features I’m looking for in this problem will be the drivers of engagement and can be measured by the feature importance of this classification model.
@@ -72,7 +73,4 @@ Regression & Predictions
 **My Workflow:**
 1. Inferences: Get knowledge of the most important price-related features of the property that people care about when buying a house in Ames, IA
 2. Predictions: Predict the price of house at sale in Ames, IA based on the important features of the property
-
-**Result:**
-![answer](Final_Answer.png)
 
