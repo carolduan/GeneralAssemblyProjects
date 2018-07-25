@@ -1,4 +1,4 @@
-# Ames Housing Data and Kaggle Challenge
+# Ames House Pricing Prediction (Kaggle Challenge)
 
 In this project, I created a regression model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
 
