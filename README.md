@@ -1,6 +1,16 @@
-# GeneralAssemblyProjects
+# General Assembly Projects 
 
 Here are 3 projects I finished in GA:
+
+**1. Recommender System:**
+I built a movie recommender system based on rating predictions using Neural Network (TensorFlow) and implemented two functions -- a similar movie search function for new users, and a movie recommendation function for existing users
+
+**2. Business Analysis:**
+I conducted an analysis on how to create a highly engaged reddit post by scraping data via reddit api and building a classification model (Random Forest Classifier) to find the most important features that can be improved to drive the engagement of reddit posts
+
+**3. Prediction:** 
+I created a regression model (Lasso Linear Regression) to predict the house price in Ames and ranked top 7% in the Kaggle competition
+
 
 ## 1. Movie Recommender System
 
